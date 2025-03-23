@@ -20,7 +20,7 @@ step 4.
 **Step 7:** Stop 
 
 # Block Diagram
-![block_diagram](Block Diagram.png)
+![block_diagram](Block_Diagram.png)
 
 # Flowchart
 ![flowchart](booth_flowchart.png)
